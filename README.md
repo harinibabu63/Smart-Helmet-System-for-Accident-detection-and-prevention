@@ -25,7 +25,7 @@ The system uses multiple sensors connected to a PIC microcontroller. If the ride
 - [MEMS Sensor](https://github.com/harinibabu63/Smart-Helmet-System-for-Accident-detection-and-prevention/blob/main/MEMS%20sensor.jpg)
 - [Load Sensor](https://github.com/harinibabu63/Smart-Helmet-System-for-Accident-detection-and-prevention/blob/main/load%20sensor.jpg)
 - GPS Module
-- [ZigBee Module]
+- [ZigBee Module](https://github.com/harinibabu63/Smart-Helmet-System-for-Accident-detection-and-prevention/blob/main/Zigbee.jpg)
 - LCD Display
 - Power Supply Circuit
 
