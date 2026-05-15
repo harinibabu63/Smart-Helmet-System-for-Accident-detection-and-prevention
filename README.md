@@ -19,7 +19,7 @@ The system uses multiple sensors connected to a PIC microcontroller. If the ride
 ## Hardware Used
 
 - PIC16F84A Microcontroller
-- IR Sensor
+- [IR Sensor](https://github.com/harinibabu63/Smart-Helmet-System-for-Accident-detection-and-prevention/blob/main/IR%20SENSOR.jpg)
 - Gas Sensor
 - Vibration Sensor
 - MEMS Sensor
