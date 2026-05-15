@@ -1,1 +1,55 @@
 # Smart-Helmet-System-for-Accident-detection-and-prevention
+# Smart Helmet System for Accident Prevention and Detection
+
+This project is an embedded safety system designed to reduce two-wheeler accidents by checking helmet usage, alcohol detection, overload condition, rash driving, and accident impact before or during vehicle operation.
+
+The system uses multiple sensors connected to a PIC microcontroller. If the rider is not wearing a helmet or alcohol is detected, the bike ignition is prevented. If an accident occurs, the system detects the impact and sends the accident location through GPS for emergency response.
+
+## Key Features
+
+- Helmet detection using IR sensor
+- Alcohol detection using gas sensor
+- Accident detection using vibration sensor
+- Rash driving detection using MEMS sensor
+- Load monitoring using load sensor
+- GPS-based accident location tracking
+- ZigBee-based wireless communication
+- PIC microcontroller-based system control
+
+## Hardware Used
+
+- PIC16F84A Microcontroller
+- IR Sensor
+- Gas Sensor
+- Vibration Sensor
+- MEMS Sensor
+- Load Sensor
+- GPS Module
+- ZigBee Module
+- LCD Display
+- Power Supply Circuit
+
+## How It Works
+
+1. The IR sensor checks whether the rider is wearing the helmet.
+2. The gas sensor detects alcohol content in the rider’s breath.
+3. If helmet usage and alcohol conditions are safe, the bike can start.
+4. The vibration sensor detects accident impact.
+5. The MEMS sensor monitors rash driving or abnormal handle movement.
+6. The GPS module sends the accident location during an emergency.
+
+## Project Images
+
+- [Block Diagram](ADD-YOUR-BLOCK-DIAGRAM-LINK-HERE)
+- [Circuit Diagram](ADD-YOUR-CIRCUIT-DIAGRAM-LINK-HERE)
+- [Hardware Setup](ADD-YOUR-HARDWARE-SETUP-LINK-HERE)
+- [Output Display](ADD-YOUR-OUTPUT-DISPLAY-LINK-HERE)
+
+## What I Learned
+
+- Sensor integration with microcontrollers
+- Embedded system design for safety applications
+- Accident detection and alert logic
+- GPS-based location tracking
+- Wireless communication using ZigBee
+- Real-world hardware system planning
