@@ -22,7 +22,7 @@ The system uses multiple sensors connected to a PIC microcontroller. If the ride
 - [IR Sensor](https://github.com/harinibabu63/Smart-Helmet-System-for-Accident-detection-and-prevention/blob/main/IR%20SENSOR.jpg)
 - [Gas Sensor](https://github.com/harinibabu63/Smart-Helmet-System-for-Accident-detection-and-prevention/blob/main/Gas%20sensor_%20smart%20helmet%20Hardware%20setup.jpg)
 - [Vibration Sensor](https://github.com/harinibabu63/Smart-Helmet-System-for-Accident-detection-and-prevention/blob/main/vibration%20sensor.jpg)
-- MEMS Sensor
+- [MEMS Sensor](https://github.com/harinibabu63/Smart-Helmet-System-for-Accident-detection-and-prevention/blob/main/MEMS%20sensor.jpg)
 - Load Sensor
 - GPS Module
 - ZigBee Module
