@@ -1,5 +1,5 @@
 # Smart-Helmet-System-for-Accident-detection-and-prevention
-# Smart Helmet System for Accident Prevention and Detection
+
 
 This project is an embedded safety system designed to reduce two-wheeler accidents by checking helmet usage, alcohol detection, overload condition, rash driving, and accident impact before or during vehicle operation.
 
