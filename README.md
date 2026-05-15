@@ -42,7 +42,7 @@ The system uses multiple sensors connected to a PIC microcontroller. If the ride
 
 - [Block Diagram](https://github.com/harinibabu63/Smart-Helmet-System-for-Accident-detection-and-prevention/blob/main/proposed%20Block%20Diagram%20of%20smart%20Helmet%20System.png)
 - [Proposed Block Diagram](https://github.com/harinibabu63/Smart-Helmet-System-for-Accident-detection-and-prevention/blob/main/Proposed%20Block%20Diagram.png)
-- [Output Display](
+- [Output Display](https://github.com/harinibabu63/Smart-Helmet-System-for-Accident-detection-and-prevention/blob/main/Output%20display_%20Smart%20Helmet%20system%20for%20Accident%20Detection.jpg)
 
 ## What I Learned
 
